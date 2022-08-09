@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489007416457",
+    "project_id": "parvaaz-eb356",
+    "storage_bucket": "parvaaz-eb356.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489007416457:android:ad2fe25c4712b037e43258",
+        "android_client_info": {
+          "package_name": "com.example.parvaaz_kids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489007416457-hrqlqbjkcc3o6um45jniqqh73msgp1fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBND4bp0ykGMiFqnZjEnNYC_fVgKnSeutk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489007416457-hrqlqbjkcc3o6um45jniqqh73msgp1fc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

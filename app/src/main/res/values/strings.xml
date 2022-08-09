@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">parvaaz-kids</string>
+    <string name="primary_message">Let\'s Join Us to Become Someone\'s Wings</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
